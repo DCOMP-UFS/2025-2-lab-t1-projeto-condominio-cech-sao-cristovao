@@ -12,7 +12,7 @@ O projeto visa a integração de infraestrutura física e lógica para apoiar 7 
 4. *[Espaço para o Lab do Gabriel]*
 5. *[Espaço para o Lab do José Arthur]*
 6. *[Espaço para o Lab do José Wallas]*
-7. *[Espaço para o Lab do Kauã]*
+7. **Geppip - Processos Identitários e Poder (UFS/CECH)** (Responsável: Kauã Nascimento Santos)
 
 
 ## 🛠️ Funções Administrativas (Equipe de Gestão)
@@ -21,7 +21,7 @@ Conforme exigido pelo edital, o condomínio possui uma equipe dedicada à viabil
 
 * **Coordenador Geral:** [Nome do Docente Responsável]
 * **Assistente de Atas de Registro de Preços:** Miguel Lucas Santana Freire
-* **Contador/Tesoureiro:** [Definir no grupo]
+* **Contador/Tesoureiro:** Kauã Nascimento Santos
 * **Responsável Técnico pela Infraestrutura:** [Definir no grupo]
 
 

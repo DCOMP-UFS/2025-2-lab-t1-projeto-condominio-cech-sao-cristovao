@@ -29,7 +29,7 @@ Aqui está a sua tabela atualizada com a inclusão do notebook e os dados espec�
 | **Mesas 160x60cm** | 04 | 02030715000112-1-000211/2025 | Kauã Nascimento |
 | **Rack de Parede 12U** | 05 | 10830301000104-1-000024/2025 | Kauã Nascimento |
 | **Rack de Piso 19"** | 01 | 76206473000101-1-000182/2024 | José Arthur |
-| **Computador I3 16GB SSD** | 12 | 13650403000128-1-000170/2024-000004 | José Arthur |
+| **Computador I3 16GB SSD** | 12 | 13650403000128-1-000170/2024 | José Arthur |
 
 ## 3. Detalhamento por Laboratório
 
@@ -90,7 +90,7 @@ Aqui está a sua tabela atualizada com a inclusão do notebook e os dados espec�
 
 | Item Solicitado | Qtd | Especificação Técnica Contemplada | Ata de Referência | Status |
 | --- | --- | --- | --- | --- |
-| **Computadores Desktop** | **12** | Computador Completo | 13650403000128-1-000170/2024-000004 | ✅ *Ajustado* |
+| **Computadores Desktop** | 12 | Computador I3 16GB SSD | 13650403000128-1-000170/2024-000004 | ✅ *Ajustado* |
 | **Servidor de Dados** | 1 | Microcomputador Core i9 (Virtualizado) | Ata CRT-RN (Item 07) | ✅ |
 | **Switch Gerenciável** | 1 | Switch de 24 portas (Item 03 - UNIFESSPA) | 18657063000180-1-000030/2024 | ✅ |
 | **Access Point Wi-Fi 6** | 1 | AP Wi-Fi 6 (Ruckus R350) | Ata UFV (Item 04) | ✅ *Ajustado* |

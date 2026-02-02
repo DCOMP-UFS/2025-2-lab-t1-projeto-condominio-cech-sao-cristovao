@@ -12,13 +12,14 @@ Aqui está a sua tabela atualizada com a inclusão do notebook e os dados espec�
 | --- | --- | --- | --- |
 | **Switch 24p (UNIFESSPA)** | 07 | 18657063000180-1-000030/2024 | Miguel Lucas |
 | **Switch Gerenciável (Intelbras)** | 01 | 32752798000114-1-000004/2025 | Miguel Lucas (Ata CRT-RN) |
-| **Desktop Lenovo Neo 50q** | 24 | 06279103000119-1-000019/2023 | Miguel Lucas |
-| **Monitor Positivo 24"** | 30 | 06279103000119-1-000019/2023 | Miguel Lucas |
+| **Desktop Lenovo Neo 50q** | 32 | 06279103000119-1-000019/2023 | Miguel Lucas |
+| **Monitor Positivo 24"** | 38 | 06279103000119-1-000019/2023 | Miguel Lucas |
 | **Servidor Core i9 (64GB RAM)** | 02 | 32752798000114-1-000004/2025 | Miguel Lucas (Ata CRT-RN) |
-| **Kit Teclado/Mouse (MK295)** | 31 | 32752798000114-1-000004/2025 | Miguel Lucas |
-| **Notebook (IdeaPad Slim 3i)** | **02** | 32752798000114-1-000004/2025 | Miguel Lucas (Ata CRT-RN) |
-| **Nobreak 3kVA (Embrapa)** | 04 | 00348003000110-1-000499/2025 | Miguel Lucas |
-| **AP Wi-Fi 6 (Ruckus R350)** | 04 | 25944455000196-1-000141/2024 | Miguel Lucas |
+| **Kit Teclado/Mouse (MK295)** | 39 | 32752798000114-1-000004/2025 | Miguel Lucas |
+| **Notebook (IdeaPad Slim 3i)** | 02 | 32752798000114-1-000004/2025 | Miguel Lucas (Ata CRT-RN) |
+| **Nobreak 3kVA (Embrapa)** | 05 | 00348003000110-1-000499/2025 | Miguel Lucas |
+| **AP Wi-Fi 6 (Ruckus R350)** | 06 | 25944455000196-1-000141/2024 | Miguel Lucas |
+| **Ar Condicionado 12k BTUs**	01	| 34023077000107-1-000101/2025 |	Miguel Lucas (Ata Itabaiana) |
 | **Microcomputador Completo** | 12 | 13075981000188-1-000016/2024 | Kauã Nascimento |
 | **Cadeiras Ergonômicas** | 13 | 13031547000104-1-000017/2025 | Kauã Nascimento |
 | **HD Externo 10TB** | 03 | 00394494000136-1-000243/2025 | Kauã Nascimento |
@@ -162,7 +163,7 @@ Aqui está a sua tabela atualizada com a inclusão do notebook e os dados espec�
 | **Switch 24p PoE** | 1 | Switch Gerenciável com suporte a PoE | Ata CRT-RN / UNIFESSPA | ⚠️ |
 | **Access Points (Wi-Fi 6)** | 2 | AP Wi-Fi 6 (Ruckus R350) | Ata UFV (Item 04) | ✅ |
 | **Nobreak 3kVA** | 1 | Nobreak Senoidal 3kVA | Ata Embrapa | ✅ |
-| **Ar Condicionado Inverter** | 1 | 12.000 BTUs Inverter | *Ata de Infraestrutura UFS* | 🔍 |
+| **Ar Condicionado Inverter** | 1 | 12.000 BTUs Inverter | Ata Itabaiana (34023077000107-1-000101/2025) | ✅ |
 | **Rack Padrão 19"** | 1 | Rack de Piso 19 pol (Item 08) | 76206473000101-1-000182/2024 | ✅ |
 
 ---
@@ -171,5 +172,4 @@ Aqui está a sua tabela atualizada com a inclusão do notebook e os dados espec�
 
 > 1. **Virtualização:** Assim como nos demais laboratórios, o **Servidor de Banco de Dados** será virtualizado no cluster de Core i9, garantindo alta disponibilidade.
 > 2. **Rede PoE:** Como o laboratório utilizará dispositivos de **IoT** e **Access Points**, a rede local exige alimentação via PoE (Power over Ethernet).
-> 3. **Climatização:** A solicitação de **Ar Condicionado Inverter** é crítica para a preservação dos Kits de IoT e estabilidade do rack local. Recomenda-se verificar a ata vigente de manutenção e infraestrutura da UFS para este item específico.
 

@@ -19,7 +19,7 @@ Aqui está a sua tabela atualizada com a inclusão do notebook e os dados espec�
 | **Notebook (IdeaPad Slim 3i)** | 02 | 32752798000114-1-000004/2025 | Miguel Lucas (Ata CRT-RN) |
 | **Nobreak 3kVA (Embrapa)** | 05 | 00348003000110-1-000499/2025 | Miguel Lucas |
 | **AP Wi-Fi 6 (Ruckus R350)** | 06 | 25944455000196-1-000141/2024 | Miguel Lucas |
-| **Ar Condicionado 12k BTUs**	01	| 34023077000107-1-000101/2025 |	Miguel Lucas (Ata Itabaiana) |
+| **Ar Condicionado 12k BTUs**	01	| 34023077000107-1-000101/2025 | 34023077000107-1-000101/2025 | Miguel Lucas (Ata Itabaiana) |
 | **Microcomputador Completo** | 12 | 13075981000188-1-000016/2024 | Kauã Nascimento |
 | **Cadeiras Ergonômicas** | 13 | 13031547000104-1-000017/2025 | Kauã Nascimento |
 | **HD Externo 10TB** | 03 | 00394494000136-1-000243/2025 | Kauã Nascimento |

@@ -89,8 +89,7 @@ Aqui está a sua tabela atualizada com a inclusão do notebook e os dados espec�
 
 | Item Solicitado | Qtd | Especificação Técnica Contemplada | Ata de Referência | Status |
 | --- | --- | --- | --- | --- |
-| **Estações (Híbridas)** | **10** | Desktop Lenovo Neo 50q + Monitor 24" | Ata Lenovo (06279103) | ✅ *Ajustado* |
-| **Servidor NAS 4 Baias** | 1 | Servidor NAS 4 baias (sem discos) | 76206465000165-1-000046/2025 | ✅ |
+| **Computadores Desktop** | **12** | Computador Completo | 13650403000128-1-000170/2024-000004 | ✅ *Ajustado* |
 | **Servidor de Dados** | 1 | Microcomputador Core i9 (Virtualizado) | Ata CRT-RN (Item 07) | ✅ |
 | **Switch Gerenciável** | 1 | Switch de 24 portas (Item 03 - UNIFESSPA) | 18657063000180-1-000030/2024 | ✅ |
 | **Access Point Wi-Fi 6** | 1 | AP Wi-Fi 6 (Ruckus R350) | Ata UFV (Item 04) | ✅ *Ajustado* |

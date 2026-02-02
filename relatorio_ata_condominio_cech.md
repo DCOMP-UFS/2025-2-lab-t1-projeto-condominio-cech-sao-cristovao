@@ -29,6 +29,7 @@ Aqui está a sua tabela atualizada com a inclusão do notebook e os dados espec�
 | **Mesas 160x60cm** | 04 | 02030715000112-1-000211/2025 | Kauã Nascimento |
 | **Rack de Parede 12U** | 05 | 10830301000104-1-000024/2025 | Kauã Nascimento |
 | **Rack de Piso 19"** | 01 | 76206473000101-1-000182/2024 | José Arthur |
+| **Computador Completo i3** | 12 | 13650403000128-1-000170/2024-000004 | José Arthur |
 
 ## 3. Detalhamento por Laboratório
 

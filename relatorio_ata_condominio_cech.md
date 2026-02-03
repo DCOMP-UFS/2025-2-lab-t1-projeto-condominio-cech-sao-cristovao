@@ -14,7 +14,7 @@ Aqui está a sua tabela atualizada com a inclusão do notebook e os dados espec�
 | **Switch Gerenciável (Intelbras)** | 01 | 32752798000114-1-000004/2025 | Miguel Lucas (Ata CRT-RN) |
 | **Desktop Lenovo Neo 50q** | 32 | 06279103000119-1-000019/2023 | Miguel Lucas |
 | **Monitor Positivo 24"** | 38 | 06279103000119-1-000019/2023 | Miguel Lucas |
-| **Servidor Core i9 (64GB RAM)** | 02 | 32752798000114-1-000004/2025 | Miguel Lucas (Ata CRT-RN) |
+| **Servidor Core i9 (64GB RAM)** | 03 | 32752798000114-1-000004/2025 | Miguel Lucas (Ata CRT-RN) |
 | **Kit Teclado/Mouse (MK295)** | 39 | 32752798000114-1-000004/2025 | Miguel Lucas |
 | **Notebook (IdeaPad Slim 3i)** | 02 | 32752798000114-1-000004/2025 | Miguel Lucas (Ata CRT-RN) |
 | **Nobreak 3kVA (Embrapa)** | 05 | 00348003000110-1-000499/2025 | Miguel Lucas |
@@ -91,7 +91,7 @@ Aqui está a sua tabela atualizada com a inclusão do notebook e os dados espec�
 | Item Solicitado | Qtd | Especificação Técnica Contemplada | Ata de Referência | Status |
 | --- | --- | --- | --- | --- |
 | **Computadores Desktop** | 12 | Computador I3 16GB SSD | 13650403000128-1-000170/2024-000004 | ✅ *Ajustado* |
-| **Servidor de Dados** | 1 | Microcomputador Core i9 (Virtualizado) | Ata CRT-RN (Item 07) | ✅ |
+| **Servidores (NAS/Web)** | 1 |  Microcomputador Core i9, 64GB RAM, RTX 4060 | Ata CRT-RN (Item 07) | ✅ |
 | **Switch Gerenciável** | 1 | Switch de 24 portas (Item 03 - UNIFESSPA) | 18657063000180-1-000030/2024 | ✅ |
 | **Access Point Wi-Fi 6** | 1 | AP Wi-Fi 6 (Ruckus R350) | Ata UFV (Item 04) | ✅ *Ajustado* |
 | **Nobreak (UPS)** | 2 | Nobreak 1200VA (Item 08) | 76206473000101-1-000182/2024 | ✅ |

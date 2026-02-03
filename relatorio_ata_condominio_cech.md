@@ -160,7 +160,7 @@ Aqui está a sua tabela atualizada com a inclusão do notebook e os dados espec�
 | Item Solicitado | Qtd | Especificação Técnica Contemplada | Ata de Referência | Status |
 | --- | --- | --- | --- | --- |
 | **Desktops Pesquisadores** | 8 | Desktop Lenovo Neo 50q + Monitor 24" | Ata Lenovo (06279103) | ✅ |
-| **Kits de IoT** | 10 | Kits de desenvolvimento (ESP32/Sensores) | *Necessário localizar ARP* | ✅ |
+| **Kits de IoT** | 10 | Kits de desenvolvimento (ESP32/Sensores) | 15461510000133-1-000024/2025 | ✅ |
 | **Servidor de Banco de Dados** | 1 | Microcomputador Core i9 (Virtualizado) | Ata CRT-RN (Item 07) | ✅ |
 | **Switch 24p PoE** | 1 | Switch Gerenciável com suporte a PoE | Ata CRT-RN / UNIFESSPA | ⚠️ |
 | **Access Points (Wi-Fi 6)** | 2 | AP Wi-Fi 6 (Ruckus R350) | Ata UFV (Item 04) | ✅ |

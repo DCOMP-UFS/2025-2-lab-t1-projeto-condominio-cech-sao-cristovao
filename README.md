@@ -11,7 +11,7 @@ O projeto visa a integração de infraestrutura física e lógica para apoiar 7 
 3. *[Espaço para o Lab do Luan]*
 4. *[Espaço para o Lab do Gabriel]*
 5. **Geppesi - Grupo de Estudos e Pesquisas em Psicologia, Educação, Saúde e Inclusão** (Responsável: José Arthur)
-6. *[Espaço para o Lab do José Wallas]*
+6. **OBSERVAE - Expressão Religiosa, Imagem e Som** (Responsável: José Wallas)
 7. **Geppip - Processos Identitários e Poder (UFS/CECH)** (Responsável: Kauã Nascimento Santos)
 
 

@@ -6,6 +6,12 @@ Este laboratório integra a proposta de **Condomínio de Laboratórios Multiusu�
 
 A demanda por processamento de alto desempenho e armazenamento seguro justifica-se pela execução de projetos como o *PID11273-2022 (Cinema e infância: mapas abertos da América Latina)* e o *PID10138-2021 (Etnocartografias de pequenas revoltas)*, que exigem a manipulação de grandes volumes de dados audiovisuais em alta resolução.
 
+### Acesso ao Projeto Online
+O projeto está rodando na AWS no seguinte endereço: http://18.212.0.203
+
+### Repositório GitHub
+https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-Miguells10
+
 
 ## Detalhamento de Itens e Orçamento (Teto: R$ 50.000,00)
 

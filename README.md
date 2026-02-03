@@ -1,62 +1,51 @@
-# 🏛️ Condomínio de Laboratórios Multiusuários - CECH (UFS)
+# Proposta de Implantação: Condomínio de Laboratórios Multiusuários - CECH (UFS)
 
-Este repositório centraliza a proposta técnica e orçamentária para a criação do **Condomínio de Laboratórios do Centro de Educação e Ciências Humanas (CECH)**, submetida ao **Edital 01/2026**.
+Este repositório centraliza a documentação técnica, o planejamento de infraestrutura e o detalhamento orçamentário para a criação do **Condomínio de Laboratórios do Centro de Educação e Ciências Humanas (CECH)** da Universidade Federal de Sergipe. A proposta é submetida em conformidade com o **Edital 01/2026**.
 
-O projeto visa a integração de infraestrutura física e lógica para apoiar 7 grupos de pesquisa, otimizando recursos através do compartilhamento de servidores, rede e climatização.
+## 1. Visão Geral e Governança
 
-## 👥 Laboratórios Integrantes
+O projeto visa a integração de 07 grupos de pesquisa do CECH em uma estrutura tecnológica unificada. A estratégia central baseia-se na **Arquitetura de Virtualização de Alta Densidade**, onde recursos de processamento e armazenamento são compartilhados via um CPD (Centro de Processamento de Dados) único, otimizando o teto orçamentário de R$ 350.000,00.
 
-1. **Balbucios: gaguejar uma infância** (Responsável: Miguel Lucas)
-2. *[Espaço para o Lab da Alícia]*
-3. Laboratório Arte, Diversidade e Contemporaneidade (Responsável: Luan Prata)
-4. *[Espaço para o Lab do Gabriel]*
-5. **Geppesi - Grupo de Estudos e Pesquisas em Psicologia, Educação, Saúde e Inclusão** (Responsável: José Arthur)
-6. **OBSERVAE - Expressão Religiosa, Imagem e Som** (Responsável: José Wallas)
-7. **Geppip - Processos Identitários e Poder (UFS/CECH)** (Responsável: Kauã Nascimento Santos)
+### 👥 Equipe de Gestão (Funções Obrigatórias)
 
-
-## 🛠️ Funções Administrativas (Equipe de Gestão)
-
-Conforme exigido pelo edital, o condomínio possui uma equipe dedicada à viabilidade do projeto:
-
-* **Coordenador Geral:** [Nome do Docente Responsável]
-* **Assistente de Atas de Registro de Preços:** Miguel Lucas Santana Freire
+* **Assistente de Atas de Registro de Compras:** Miguel Lucas Santana Freire
 * **Contador/Tesoureiro:** Kauã Nascimento Santos
-* **Responsável Técnico pela Infraestrutura:** [Definir no grupo]
+* **Coordenador da Submissão:** José Wallas Silva
 
+---
 
-## 💻 Infraestrutura Compartilhada (CPD Central)
+## 2. Roteiro de Documentação (Indexação do Projeto)
 
-Diferente de laboratórios isolados, o CECH adotará um modelo de **CPD Único**, centralizando:
+Para fins de auditoria e análise técnica pela comissão avaliadora, o projeto está estruturado nos seguintes arquivos:
 
-* **Core de Rede:** 1 Switch Principal interligado à rede da UFS.
-* **Segurança:** Firewall e Gateway unificados para proteção de dados.
-* **Energia:** Sistema de Nobreaks (UPS) centralizado para proteção dos servidores.
-* **Armazenamento:** Servidores NAS para backup redundante de todos os laboratórios.
+* **[Relatório de Atas Vigentes](./relatorio_ata_condominio_cech.md)**: Detalhamento técnico dos itens selecionados, IDs do PNCP e notas técnicas de ajuste por laboratório.
+* **[Plano de Uso Multiusuário](./plano_uso_multiusuario.md)**: Regras de governança, agendamento de recursos e protocolos de compartilhamento da infraestrutura.
+* **[Relatório de Colaboração](./relatorio_colaboracao_cech.md)**: Registro quantitativo de interações no GoogleGroups para validação do engajamento dos membros.
+* **[Orçamento e Topologia](./mapa_fisico_cech.pdf)**: Documento consolidado contendo a planilha de custos e o mapa físico da rede.
 
+---
 
-## 💰 Orçamento Consolidado
+## 3. Laboratórios Integrantes e Infraestrutura Digital
 
-> **Teto Global:** R$ 350.000,00 (7 labs x R$ 50k)
+Abaixo, a relação dos laboratórios que compõem o condomínio, seus respectivos técnicos responsáveis e os endereços para validação das instâncias AWS:
 
-| Categoria | Descrição | Status da Ata | Responsável |
+| Laboratório | Técnico Responsável (GitHub) | Repositório Oficial | IP de Validação (AWS) |
 | --- | --- | --- | --- |
-| **Rede** | Switches 24p Gigabit (Ata UNIFESSPA) | ✅ Registrada | Miguel Lucas |
-| **Workstations** | Estações de Edição/Pesquisa | 🔍 Em busca | - |
-| **Servidores** | Web, Database, Media e NAS | 🔍 Em busca | - |
-| **Mobiliário** | Bancadas e Cadeiras Ergonômicas | 🔍 Em busca | - |
+| **Balbucios: gaguejar uma infância** | [Miguells10](https://github.com/Miguells10) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-Miguells10) | `[http://18.212.0.203]` |
+| **GEPPIP (Processos Identitários e Poder)** | [Matagim](https://github.com/Matagim) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-Matagim) | `[Inserir IP]` |
+| **GEPPESI (Educação, Saúde e Inclusão)** | [joarrhur-dcomp](https://github.com/joarrhur-dcomp) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-joarrhur-dcomp) | `[Inserir IP]` |
+| **Arte, Diversidade e Contemporaneidade** | [luanprata-tech](https://github.com/luanprata-tech) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-luanprata-tech.git) | `[Inserir IP]` |
+| **Oficina de Filosofia Medieval e Neoplatonismo** | [gbasttos](https://github.com/gbasttos) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-gbasttos) | `[Inserir IP]` |
+| **OBSERVAE (Expressão Religiosa, Imagem e Som)** | José Wallas | `[Inserir Link]` | `[Inserir IP]` |
+| **Salvaguarda Digital** | Alícia | `[Inserir Link]` | `[Inserir IP]` |
 
+---
 
-## 🗺️ Mapa Físico (Planta Baixa)
+## 4. Justificativa de Infraestrutura Compartilhada
 
-A planta baixa unificada do CECH está em fase de desenvolvimento. Ela contempla o zoneamento dos 7 laboratórios e a Sala Técnica (CPD Central), garantindo acessibilidade e fluxo de circulação multiusuário.
+A viabilidade do projeto sustenta-se na centralização de serviços críticos em um cluster de virtualização:
 
-
-## 📝 Como contribuir para este repositório
-
-Pessoal do CECH, para atualizarmos o projeto final, enviem no Google Groups:
-
-1. **Lista de Hardware:** Quantidade de PCs, monitores e periféricos.
-2. **Justificativa:** Para que seu lab vai usar esses equipamentos?
-3. **Sugestão de Atas:** Se acharem algo no PNCP, avisem o Miguel (Assistente de Atas).
+1. **Processamento:** Cluster de servidores Core i9 operando instâncias Docker para hospedagem de aplicações e bancos de dados.
+2. **Segurança:** Implementação de Firewall/Gateway unificado e segmentação de rede por VLANs via Switch Gerenciável.
+3. **Armazenamento:** Sistema NAS de 4 baias para salvaguarda digital e redundância de dados de todos os grupos participantes.
 

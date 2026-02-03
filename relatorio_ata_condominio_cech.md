@@ -162,7 +162,7 @@ Aqui está a sua tabela atualizada com a inclusão do notebook e os dados espec�
 | **Desktops Pesquisadores** | 8 | Desktop Lenovo Neo 50q + Monitor 24" | Ata Lenovo (06279103) | ✅ |
 | **Kits de IoT** | 10 | Kits de desenvolvimento (ESP32/Sensores) | 15461510000133-1-000024/2025 | ✅ |
 | **Servidor de Banco de Dados** | 1 | Microcomputador Core i9 (Virtualizado) | Ata CRT-RN (Item 07) | ✅ |
-| **Switch 24p PoE** | 1 | Switch Gerenciável com suporte a PoE | Ata CRT-RN / UNIFESSPA | ⚠️ |
+| **Switch 24p PoE** | 1 | Switch Gerenciável com suporte a PoE | UNIFESSPA | ✅ |
 | **Access Points (Wi-Fi 6)** | 2 | AP Wi-Fi 6 (Ruckus R350) | Ata UFV (Item 04) | ✅ |
 | **Nobreak 3kVA** | 1 | Nobreak Senoidal 3kVA | Ata Embrapa | ✅ |
 | **Ar Condicionado Inverter** | 1 | 12.000 BTUs Inverter | Ata Itabaiana (34023077000107-1-000101/2025) | ✅ |

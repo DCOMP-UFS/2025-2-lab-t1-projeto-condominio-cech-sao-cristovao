@@ -37,7 +37,7 @@ Abaixo, a relação dos laboratórios que compõem o condomínio, seus respectiv
 | **Arte, Diversidade e Contemporaneidade** | [luanprata-tech](https://github.com/luanprata-tech) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-luanprata-tech.git) | `[Inserir IP]` |
 | **Oficina de Filosofia Medieval e Neoplatonismo** | [gbasttos](https://github.com/gbasttos) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-gbasttos) | `[Inserir IP]` |
 | **OBSERVAE (Expressão Religiosa, Imagem e Som)** |[wallassilva](https://github.com/wallassilva) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-wallassilva)| [Inserir IP] |
-| **Salvaguarda Digital** | Alícia | `[Inserir Link]` | `[Inserir IP]` |
+| **Escrevivências de Mulheres Negras em Diáspora** | Alícia | [aliciasnts](https://github.com/aliciasnts) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-aliciasnts) | `[Inserir IP]` |
 
 ---
 

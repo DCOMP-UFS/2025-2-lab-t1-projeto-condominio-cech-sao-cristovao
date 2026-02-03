@@ -27,8 +27,8 @@ Aqui está a sua tabela atualizada com a inclusão do notebook e os dados espec�
 | **Servidor NAS 4 Baias** | 01 | 76206465000165-1-000046/2025 | José Arthur |
 | **Patch Panel 24p Cat6** | 01 | 24365710000183-1-000170/2025 | José Arthur |
 | **Mesas 160x60cm** | 04 | 02030715000112-1-000211/2025 | Kauã Nascimento |
-| **Rack de Parede 12U** | 05 | 10830301000104-1-000024/2025 | Kauã Nascimento |
-| **Rack de Piso 19"** | 01 | 76206473000101-1-000182/2024 | José Arthur |
+| **Rack de Parede 12U** | 01 | 10830301000104-1-000024/2025 | Kauã Nascimento |
+| **Rack de Piso 19"** | 05 | 76206473000101-1-000182/2024 | José Arthur |
 | **Computador I3 16GB SSD** | 12 | 13650403000128-1-000170/2024 | José Arthur |
 | **Telefones IP** | 2 | 92969856000198-1-000518/2024 | José Wallas |
 

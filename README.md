@@ -8,7 +8,7 @@ O projeto visa a integração de infraestrutura física e lógica para apoiar 7 
 
 1. **Balbucios: gaguejar uma infância** (Responsável: Miguel Lucas)
 2. *[Espaço para o Lab da Alícia]*
-3. *[Espaço para o Lab do Luan]*
+3. Laboratório Arte, Diversidade e Contemporaneidade (Responsável: Luan Prata)
 4. *[Espaço para o Lab do Gabriel]*
 5. **Geppesi - Grupo de Estudos e Pesquisas em Psicologia, Educação, Saúde e Inclusão** (Responsável: José Arthur)
 6. **OBSERVAE - Expressão Religiosa, Imagem e Som** (Responsável: José Wallas)

@@ -36,4 +36,4 @@ Desse modo, o laboraório configura-se como um ambiente de pesquisa compartilhad
 
 ## Links do site de demonstração
 
-[Link AWS](http://44.220.130.167)
+[Link AWS](http://54.83.66.57)

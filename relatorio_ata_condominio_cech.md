@@ -30,6 +30,7 @@ Aqui está a sua tabela atualizada com a inclusão do notebook e os dados espec�
 | **Rack de Parede 12U** | 05 | 10830301000104-1-000024/2025 | Kauã Nascimento |
 | **Rack de Piso 19"** | 01 | 76206473000101-1-000182/2024 | José Arthur |
 | **Computador I3 16GB SSD** | 12 | 13650403000128-1-000170/2024 | José Arthur |
+| **Telefones IP** | 2 | 92969856000198-1-000518/2024 | José Wallas |
 
 ## 3. Detalhamento por Laboratório
 
@@ -107,19 +108,19 @@ Aqui está a sua tabela atualizada com a inclusão do notebook e os dados espec�
 > 1. **Justificativa:** Considerando que o laboratório utilizará o **Core i9 centralizado** (Nota Técnica ³), as 10 estações Lenovo atuarão como terminais de alto desempenho, sendo suficientes para a rotatividade dos 16 membros em grupos de pesquisa.
 > 2. **Economia Gerada:** Esse ajuste economiza aproximadamente **R$ 20.750,00**, permitindo a aquisição do **NAS de 4 baias** e do **Rack de Piso**, itens fundamentais para a integridade dos dados do laboratório que antes estariam sem saldo para compra. 
 
-### 3.5 Laboratório OBSERVAE (Wallace)
+### 3.5 Laboratório OBSERVAE (José Wallas)
 
-**Foco:** Observação e Análise Estratégica.
+**Foco:** Expressão Religiosa, Imagem e Som.
 
 | Item Solicitado | Qtd | Especificação Técnica Contemplada | Ata de Referência | Status |
 | --- | --- | --- | --- | --- |
 | **Workstations** | 6 | Desktop Lenovo Neo 50q + Monitor 24" | Ata Lenovo (06279103) | ✅ |
 | **Servidor de Rack** | 1 | Microcomputador Core i9 (Virtualizado) | Ata CRT-RN (Item 07) | ✅ |
-| **Switch Core 24p PoE** | 1 | Switch Gerenciável com suporte a PoE | Ata CRT-RN / UNIFESSPA | ⚠️ |
-| **Access Point (Wi-Fi 6)** | **1** | AP Wi-Fi 6 (Ruckus R350) | Ata UFV (Item 04) | 📉 *Ajustado* |
+| **Switch Core 24p PoE** | 1 | Switch Gerenciável com suporte a PoE | Ata CRT-RN / UNIFESSPA | ✅ |
+| **Access Point (Wi-Fi 6)** | **1** | AP Wi-Fi 6 (Ruckus R350) | Ata UFV (Item 04) | ✅ |
 | **Nobreak 3000VA** | 1 | Nobreak Senoidal 3kVA | Ata Embrapa | ✅ |
 | **Rack de Piso 19"** | 1 | Rack de Piso 19 pol (Item 08) | 76206473000101-1-000182/2024 | ✅ |
-| **Telefones IP** | 2 | Telefone IP (SIP) | *Necessário localizar ARP* | 🔍 |
+| **Telefones IP** | 2 | Telefone IP (SIP) | 92969856000198-1-000518/2024 | ✅ |
 | **Cabeamento Cat 6** | - | Caixa 305m Cat6 + Patch Cords 1,5m | Ata José Gabriel / Embrapa | ✅ |
 
 ---

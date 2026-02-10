@@ -21,7 +21,7 @@ Para fins de auditoria e análise técnica pela comissão avaliadora, o projeto 
 * **[Relatório de Atas Vigentes](./relatorio_ata_condominio_cech.md)**: Detalhamento técnico dos itens selecionados, IDs do PNCP e notas técnicas de ajuste por laboratório.
 * **[Plano de Uso Multiusuário](./plano_uso_multiusuario.md)**: Regras de governança, agendamento de recursos e protocolos de compartilhamento da infraestrutura.
 * **[Relatório de Colaboração](./relatorio_colaboracao_cech.md)**: Registro quantitativo de interações no GoogleGroups para validação do engajamento dos membros.
-* **[Orçamento e Topologia](./mapa_fisico_cech.pdf)**: Documento consolidado contendo a planilha de custos e o mapa físico da rede.
+* **[Orçamento e Topologia](./Condomínio_lab_CECH.pdf)**: Documento consolidado contendo a planilha de custos e o mapa físico da rede.
 
 ---
 

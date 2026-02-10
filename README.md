@@ -34,7 +34,7 @@ Abaixo, a relação dos laboratórios que compõem o condomínio, seus respectiv
 | **Balbucios: gaguejar uma infância** | [Miguells10](https://github.com/Miguells10) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-Miguells10) | `[http://18.212.0.203]` |
 | **GEPPIP (Processos Identitários e Poder)** | [Matagim](https://github.com/Matagim) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-Matagim) | `[Inserir IP]` |
 | **GEPPESI (Educação, Saúde e Inclusão)** | [joarrhur-dcomp](https://github.com/joarrhur-dcomp) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-joarrhur-dcomp) | `[Inserir IP]` |
-| **Arte, Diversidade e Contemporaneidade** | [luanprata-tech](https://github.com/luanprata-tech) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-luanprata-tech.git) | `[Inserir IP]` |
+| **Arte, Diversidade e Contemporaneidade** | [luanprata-tech](https://github.com/luanprata-tech) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-luanprata-tech.git) | `(http://54.196.223.137:8080/)` |
 | **Oficina de Filosofia Medieval e Neoplatonismo** | [gbasttos](https://github.com/gbasttos) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-gbasttos) | `[Inserir IP]` |
 | **OBSERVAE (Expressão Religiosa, Imagem e Som)** |[wallassilva](https://github.com/wallassilva) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-wallassilva)| [Inserir IP] |
 | **Escrevivências de Mulheres Negras em Diáspora** | Alícia | [aliciasnts](https://github.com/aliciasnts) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-aliciasnts) | `[Inserir IP]` |

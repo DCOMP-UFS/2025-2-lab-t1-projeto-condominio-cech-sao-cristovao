@@ -35,7 +35,7 @@ Abaixo, a relação dos laboratórios que compõem o condomínio, seus respectiv
 | **GEPPIP (Processos Identitários e Poder)** | [Matagim](https://github.com/Matagim) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-Matagim) | `(http://50.19.48.165/)` |
 | **GEPPESI (Educação, Saúde e Inclusão)** | [joarrhur-dcomp](https://github.com/joarrhur-dcomp) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-joarrhur-dcomp) | `(http://50.19.173.1:8080/)` |
 | **Arte, Diversidade e Contemporaneidade** | [luanprata-tech](https://github.com/luanprata-tech) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-luanprata-tech.git) | `(http://54.196.223.137:8080/)` |
-| **Oficina de Filosofia Medieval e Neoplatonismo** | [gbasttos](https://github.com/gbasttos) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-gbasttos) | `[Inserir IP]` |
+| **Oficina de Filosofia Medieval e Neoplatonismo** | [gbasttos](https://github.com/gbasttos) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-gbasttos) | `[http://54.83.117.20]` |
 | **OBSERVAE (Expressão Religiosa, Imagem e Som)** |[wallassilva](https://github.com/wallassilva) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-wallassilva)| '(http://50.19.19.110:8080/)'|
 | **Escrevivências de Mulheres Negras em Diáspora** | [aliciasnts](https://github.com/aliciasnts) | [Link Repo](https://github.com/DCOMP-UFS/2025-2-lab-t1-projeto-lab-site-aliciasnts) | http://3.234.214.192/ |
 ---
